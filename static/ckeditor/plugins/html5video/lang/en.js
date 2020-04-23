@@ -1,0 +1,38 @@
+// CKEDITOR.plugins.setLang( 'html5video', 'en', {
+//     button: 'Insert HTML5 video',
+//     title: 'HTML5 video',
+//     infoLabel: 'Video info',
+//     allowed: 'Allowed file extensions: MP4, WebM, Ogv',
+//     urlMissing: 'Video source URL is missing.',
+//     videoProperties: 'Video properties',
+//     upload: 'Upload',
+//     btnUpload: 'Send it to the server',
+//     advanced: 'Advanced',
+//     autoplay: 'Autoplay?',
+//     allowdownload: 'Allow download?',
+//     advisorytitle: 'Advisory title',
+//     yes: 'Yes',
+//     no: 'No',
+//     loop: 'Loop?',
+//     responsive: 'Responsive width',
+//     controls: 'Show controls',
+//     poster: 'Thumbnail'
+// } );
+CKEDITOR.plugins.setLang( 'html5video', 'en', {
+    button: '发布HTML5视频',
+    title: 'HTML5视频',
+    infoLabel: '视频信息',
+    allowed: '支持格式: MP4, WebM, Ogv',
+    urlMissing: '视频url',
+    videoProperties: '视频属性',
+    upload: '上传视频',
+    btnUpload: '上传',
+    advanced: '高级',
+    autoplay: '自动播放',
+    allowdownload: 'Allow download?',
+    advisorytitle: 'Advisory title',
+    yes: '是',
+    no: '否',
+    responsive: '自动宽度',
+    controls: '显示控件？'
+} );
